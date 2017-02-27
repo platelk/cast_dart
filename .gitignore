@@ -1,3 +1,4 @@
 pubspec.lock
 build/
 .packages
+*.log
